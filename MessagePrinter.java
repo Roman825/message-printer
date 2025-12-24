@@ -1,8 +1,9 @@
 public class MessagePrinter {
     
-    public static String getWelcomeMessage() {
-    return "Hello! Welcome to Git and GitHub Tutorial!";
+public static String getWelcomeMessage() {
+    return "Hello! Welcome to Git and GitHub Tutorial! Learning is fun!";
 }
+
 
     
     public static String getDateMessage() {
